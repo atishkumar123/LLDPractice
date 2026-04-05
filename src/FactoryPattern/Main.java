@@ -9,7 +9,7 @@ public class Main {
 
         ShapeFactory shapeFactory=new ShapeFactory();
 
-        Shape circle= shapeFactory.getShape("CIRCLE");
+        Shape circle= shapeFactory.getShape("CIRCLrE");
 
         circle.draw();
     }
