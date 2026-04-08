@@ -1,9 +1,9 @@
-package FactoryPattern.ShapeFactory;
+package FactoryPattern.BYSheryenansh.ShapeFactory;
 
-import FactoryPattern.shape.Circle;
-import FactoryPattern.shape.Rectangle;
-import FactoryPattern.shape.Shape;
-import FactoryPattern.shape.Square;
+import FactoryPattern.BYSheryenansh.shape.Circle;
+import FactoryPattern.BYSheryenansh.shape.Rectangle;
+import FactoryPattern.BYSheryenansh.shape.Shape;
+import FactoryPattern.BYSheryenansh.shape.Square;
 
 public class ShapeFactory {
 

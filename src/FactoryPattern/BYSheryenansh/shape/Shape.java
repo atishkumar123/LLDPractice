@@ -1,4 +1,4 @@
-package FactoryPattern.shape;
+package FactoryPattern.BYSheryenansh.shape;
 
 public interface Shape {
 
