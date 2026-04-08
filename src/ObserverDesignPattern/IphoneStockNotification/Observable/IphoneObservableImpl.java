@@ -1,6 +1,6 @@
-package ObserverDesignPattern.Observable;
+package ObserverDesignPattern.IphoneStockNotification.Observable;
 
-import ObserverDesignPattern.Obsever.NotificationAlertObserver;
+import ObserverDesignPattern.IphoneStockNotification.Obsever.NotificationAlertObserver;
 
 import java.util.ArrayList;
 import java.util.List;

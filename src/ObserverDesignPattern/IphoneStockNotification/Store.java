@@ -1,10 +1,10 @@
-package ObserverDesignPattern;
+package ObserverDesignPattern.IphoneStockNotification;
 
-import ObserverDesignPattern.Observable.IphoneObservableImpl;
-import ObserverDesignPattern.Observable.StockObservable;
-import ObserverDesignPattern.Obsever.EmailAlertObserverImpl;
-import ObserverDesignPattern.Obsever.MobileAlertObserverImpl;
-import ObserverDesignPattern.Obsever.NotificationAlertObserver;
+import ObserverDesignPattern.IphoneStockNotification.Observable.IphoneObservableImpl;
+import ObserverDesignPattern.IphoneStockNotification.Observable.StockObservable;
+import ObserverDesignPattern.IphoneStockNotification.Obsever.EmailAlertObserverImpl;
+import ObserverDesignPattern.IphoneStockNotification.Obsever.MobileAlertObserverImpl;
+import ObserverDesignPattern.IphoneStockNotification.Obsever.NotificationAlertObserver;
 
 public class Store {
 

@@ -1,7 +1,6 @@
-package ObserverDesignPattern.Obsever;
+package ObserverDesignPattern.IphoneStockNotification.Obsever;
 
-import ObserverDesignPattern.Observable.StockObservable;
-import org.w3c.dom.ls.LSOutput;
+import ObserverDesignPattern.IphoneStockNotification.Observable.StockObservable;
 
 public class MobileAlertObserverImpl implements NotificationAlertObserver{
 

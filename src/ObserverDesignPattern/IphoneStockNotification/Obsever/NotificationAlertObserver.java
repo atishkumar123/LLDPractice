@@ -1,4 +1,4 @@
-package ObserverDesignPattern.Obsever;
+package ObserverDesignPattern.IphoneStockNotification.Obsever;
 
 public interface NotificationAlertObserver {
 
