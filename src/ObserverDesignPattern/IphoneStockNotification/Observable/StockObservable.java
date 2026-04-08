@@ -1,6 +1,6 @@
-package ObserverDesignPattern.Observable;
+package ObserverDesignPattern.IphoneStockNotification.Observable;
 
-import ObserverDesignPattern.Obsever.NotificationAlertObserver;
+import ObserverDesignPattern.IphoneStockNotification.Obsever.NotificationAlertObserver;
 
 public   interface StockObservable {
 

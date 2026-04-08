@@ -1,6 +1,6 @@
-package ObserverDesignPattern.Obsever;
+package ObserverDesignPattern.IphoneStockNotification.Obsever;
 
-import ObserverDesignPattern.Observable.StockObservable;
+import ObserverDesignPattern.IphoneStockNotification.Observable.StockObservable;
 
 public class EmailAlertObserverImpl implements NotificationAlertObserver {
 
