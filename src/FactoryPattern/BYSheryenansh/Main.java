@@ -1,7 +1,7 @@
-package FactoryPattern;
+package FactoryPattern.BYSheryenansh;
 
-import FactoryPattern.ShapeFactory.ShapeFactory;
-import FactoryPattern.shape.Shape;
+import FactoryPattern.BYSheryenansh.ShapeFactory.ShapeFactory;
+import FactoryPattern.BYSheryenansh.shape.Shape;
 
 public class Main {
 
